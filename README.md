@@ -18,6 +18,7 @@ Name | Public source
 [Turborepo](https://turborepo.com/) | [Twitter](https://twitter.com/turborepo/status/1417472247472742402)
 [Sourcegraph](https://sourcegraph.com) | [Twitter](https://twitter.com/sqs/status/1418673941086838786)
 [incident.io](https://incident.io) | [Twitter](https://twitter.com/sjwhitworth/status/1427960549879566337)
+[Fountane](https://fountane.com) | [Twitter](https://twitter.com/adisiripragada/status/1440195646355480581)
 
 
 *If your company also offers the Future Founder Promise, add yourself to this list by opening a pull request!*
