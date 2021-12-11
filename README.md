@@ -19,6 +19,7 @@ Name | Public source
 [Sourcegraph](https://sourcegraph.com) | [Twitter](https://twitter.com/sqs/status/1418673941086838786)
 [incident.io](https://incident.io) | [Twitter](https://twitter.com/sjwhitworth/status/1427960549879566337)
 [Fountane](https://fountane.com) | [Twitter](https://twitter.com/adisiripragada/status/1440195646355480581)
+[Snaplet](https://www.snaplet.dev) | [Twitter](https://twitter.com/appfactory/status/1468969614423986193)
 
 
 *If your company also offers the Future Founder Promise, add yourself to this list by opening a pull request!*
