@@ -14,7 +14,7 @@ Once other startups started offering it as well we created this list to keep tra
 
 Name | Public source
 ---- | ----
-[GraphCDN](https://graphcdn.io) | [Twitter](https://twitter.com/GraphCDN/status/1411976147152343041)
+[Stellate](https://stellate.co) | [Twitter](https://twitter.com/GraphCDN/status/1411976147152343041)
 [Turborepo](https://turborepo.com/) | [Twitter](https://twitter.com/turborepo/status/1417472247472742402)
 [Sourcegraph](https://sourcegraph.com) | [Twitter](https://twitter.com/sqs/status/1418673941086838786)
 [incident.io](https://incident.io) | [Twitter](https://twitter.com/sjwhitworth/status/1427960549879566337)
