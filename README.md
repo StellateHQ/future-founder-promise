@@ -20,6 +20,6 @@ Once other startups started offering it as well we created this list to keep tra
 | [incident.io](https://incident.io)     | [Twitter](https://twitter.com/sjwhitworth/status/1427960549879566337)                          |
 | [Fountane](https://fountane.com)       | [Twitter](https://twitter.com/adisiripragada/status/1440195646355480581)                       |
 | [Snaplet](https://www.snaplet.dev)     | [Twitter](https://twitter.com/appfactory/status/1468969614423986193)                           |
-| [Lunabase](https://luabase.com)        | [Notion](https://luabase.notion.site/luabase/Work-at-Luabase-f853a0c546ab43fcaf7c85c6a64ee5a9) |
+| [Luabase](https://luabase.com)         | [Notion](https://luabase.notion.site/luabase/Work-at-Luabase-f853a0c546ab43fcaf7c85c6a64ee5a9) |
 
 _If your company also offers the Future Founder Promise, add yourself to this list by opening a pull request!_
