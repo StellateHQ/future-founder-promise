@@ -21,5 +21,6 @@ Name | Public source
 [Fountane](https://fountane.com) | [Twitter](https://twitter.com/adisiripragada/status/1440195646355480581)
 [Snaplet](https://www.snaplet.dev) | [Twitter](https://twitter.com/appfactory/status/1468969614423986193)
 [Luabase](https://luabase.com) | [Notion](https://luabase.notion.site/luabase/Work-at-Luabase-f853a0c546ab43fcaf7c85c6a64ee5a9)
+[Omnea](https://omnea.co) | [Site](https://careers.omnea.co/)
 
 *If your company also offers the Future Founder Promise, add yourself to this list by opening a pull request!*
