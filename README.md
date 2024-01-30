@@ -22,5 +22,6 @@ Name | Public source
 [Snaplet](https://www.snaplet.dev) | [Twitter](https://twitter.com/appfactory/status/1468969614423986193)
 [Luabase](https://luabase.com) | [Notion](https://luabase.notion.site/luabase/Work-at-Luabase-f853a0c546ab43fcaf7c85c6a64ee5a9)
 [Omnea](https://omnea.co) | [Site](https://careers.omnea.co/)
+[Octomind](https://www.octomind.dev) | [Site](https://www.octomind.dev/about)
 
 *If your company also offers the Future Founder Promise, add yourself to this list by opening a pull request!*
